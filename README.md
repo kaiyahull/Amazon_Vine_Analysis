@@ -17,8 +17,7 @@ There are 22 Vine reviews in the dataset.
 
 There are 26,987 total non-Vine reviews in the dataset. 
 <img src="images/total_nonvine_reviews.png">
-\
-\
+<br/><br/>
 
 
 * **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
@@ -28,8 +27,7 @@ There are 26,987 total non-Vine reviews in the dataset.
 <img src="images/five_star_vine.png">
 
 14,475 non_vine reviews are 5 stars. 
-\
-\
+\\
 
 
 * **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
