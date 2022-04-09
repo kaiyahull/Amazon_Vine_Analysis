@@ -16,6 +16,8 @@ There are 22 Vine reviews in the dataset.
 There are 26,987 total non-Vine reviews in the dataset. 
 <img src="images/total_nonvine_reviews.png">
 
+
+
 * **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
 13 Vine reviews are 5 stars.
@@ -23,6 +25,8 @@ There are 26,987 total non-Vine reviews in the dataset.
 <img src="images/five_star_vine.png">
 
 14,475 non_vine reviews are 5 stars. 
+
+
 
 * **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
@@ -35,9 +39,11 @@ There are 26,987 total non-Vine reviews in the dataset.
 <img src="images/percent_five_star_nonvine.png">
 
 
+
+
 ## Summary 
-The majority of both Vine and non-Vine reviews are 5 stars. Of the Vine reviews, 59.1% are 5 stars. And of the non-Vine reviews, 53.6% are 5 stars. This suggests a slight positivity bias in Vine reviews. However, of the total 27,009 helpful reviews we analyzed in the dataset, only 22 reviews were provided through the Vine program and the rest of the 26,987 were non-Vine reviews. The Vine reviews make up only 0.08% of the total reviews which limits the impact any slight positivity bias would have on the reviews as a whole.\
-An additional analysis that would support the above findings is the average star rating for all reviews, Vine, and non-Vine reviews. When this analysis is performed, we find that the average star rating for Vine reviews is 4.36. The average star rating for non-Vine reviews is 3.86. The average star rating for all reviews is 3.86. On average, Vine reviews are 0.5 stars higher than non-Vine reviews. However, the average of all reviews is not affected by the higher ratings of Vine reviews because the weight of these reviews is so small due to the small number of Vine reviews. 
+	The majority of both Vine and non-Vine reviews are 5 stars. Of the Vine reviews, 59.1% are 5 stars. And of the non-Vine reviews, 53.6% are 5 stars. This suggests a slight positivity bias in Vine reviews. However, of the total 27,009 helpful reviews we analyzed in the dataset, only 22 reviews were provided through the Vine program and the rest of the 26,987 were non-Vine reviews. The Vine reviews make up only 0.08% of the total reviews which limits the impact any slight positivity bias would have on the reviews as a whole.\
+	An additional analysis that would support the above findings is the average star rating for all reviews, Vine, and non-Vine reviews. When this analysis is performed, we find that the average star rating for Vine reviews is 4.36. The average star rating for non-Vine reviews is 3.86. The average star rating for all reviews is 3.86. On average, Vine reviews are 0.5 stars higher than non-Vine reviews. However, the average of all reviews is not affected by the higher ratings of Vine reviews because the weight of these reviews is so small due to the small number of Vine reviews. 
 
 <img src="images/avg_star_ratings.png">
 
