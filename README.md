@@ -7,7 +7,7 @@ The Amazon Vine Program is a paid service provided by Amazon to manufactures and
 ## Results
 
 From the entire dataset containing reviews of shoes sold on Amazon, we only analyzed the points of data that met certain criteria to ensure we were analyzing meaningful reviews. First, the data was filtered for reviews that have a total_votes of 20 or higher. The reviews were then further limited to those that had a helpful_votes ratio of at least 50%. 
-\
+<br/>
 
 * **How many Vine reviews and non-Vine reviews were there?**
 
@@ -27,7 +27,7 @@ There are 26,987 total non-Vine reviews in the dataset.
 <img src="images/five_star_vine.png">
 
 14,475 non_vine reviews are 5 stars. 
-\\
+<br/><br/>
 
 
 * **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
